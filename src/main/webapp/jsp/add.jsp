@@ -1,10 +1,11 @@
 <%@ page import="com.example.User" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Add</title>
 </head>
 <body>
 <div class="w3-container" style="margin-left:10px; width:400px;">
